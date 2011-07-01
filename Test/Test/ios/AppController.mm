@@ -34,6 +34,7 @@ static AppDelegate s_sharedApplication;
                                       sharegroup: nil
                                    multiSampling: NO
                                  numberOfSamples: 0 ];
+    //Just a test
     
     // Use RootViewController manage EAGLView 
     viewController = [[RootViewController alloc] initWithNibName:nil bundle:nil];
